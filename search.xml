@@ -46,4 +46,20 @@
         <tag>Hexo</tag>
       </tags>
   </entry>
+  <entry>
+    <title>联通校园网目前的体验和发现的一些问题</title>
+    <url>/2021/09/21/%E8%81%94%E9%80%9A%E6%A0%A1%E5%9B%AD%E7%BD%91%E7%9B%AE%E5%89%8D%E7%9A%84%E4%BD%93%E9%AA%8C%E5%92%8C%E5%8F%91%E7%8E%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/</url>
+    <content><![CDATA[<ol>
+<li>Win10 环境下无法设置移动热点（此问题貌似无解）；</li>
+<li>Win10 环境下直接设置代理连接（即 VPN 连接）是无效的。解决办法：将网络连接修改为英文，不要用中文。参见<a href="https://zhuanlan.zhihu.com/p/379595280">此文</a>，貌似是 Win10 的 bug；</li>
+<li>跑了一下测速，最大下载速度为 30MB（换成运营商的单位就是 240Mbps，但正常情况下是跑不到这个速度的），平均下载速度 11MB 左右，最大上传速度为 3MB，平均上传速度为 3Mb (30~40Mbps), 中规中矩；</li>
+<li>未限制 BT 下载；</li>
+<li>打 OW 未发现有丢包现象，延迟较低；</li>
+<li>能用，但不如移动，不过价格上妥协了。</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>日常</tag>
+      </tags>
+  </entry>
 </search>
