@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>That&#39;s so pity.</title>
+    <url>/2021/10/18/That-s-so-pity/</url>
+    <content><![CDATA[<p>  That’s so pity. 真的是意难平。我不得不放弃 - 她把我所有的联系方式都拉黑了，哦微博私信还没关，但也始终没有任何回复。虽然不断告诉自己：忘了吧忘了吧忘了吧忘了吧，没什么的，无所谓的。但怎么能真正放下呢？</p>
+]]></content>
+      <tags>
+        <tag>日常</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2021/07/31/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -19,33 +28,6 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>联通校园网目前的体验和发现的一些问题</title>
-    <url>/2021/09/21/%E8%81%94%E9%80%9A%E6%A0%A1%E5%9B%AD%E7%BD%91%E7%9B%AE%E5%89%8D%E7%9A%84%E4%BD%93%E9%AA%8C%E5%92%8C%E5%8F%91%E7%8E%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/</url>
-    <content><![CDATA[<p>搬到新校区后用不了移动宽带，只能选择一个月 28 的联不通。</p>
-<span id="more"></span>
-
-<ol>
-<li><p>Win10 环境下无法设置移动热点（此问题无解）；</p>
-</li>
-<li><p>Win10 环境下直接设置代理连接（即 VPN 连接）是无效的。解决办法：将网络连接修改为英文，不用中文。参见<a href="https://zhuanlan.zhihu.com/p/379595280">此文</a>，应该是 Win10 的 bug；</p>
-</li>
-<li><p>跑了一下测速，最大下载速度为 30MB（换成运营商的单位就是 240Mbps，但正常情况下是跑不到这个速度的），平均下载速度 11MB 左右，最大上传速度为 3MB，平均上传速度为 3Mb (30~40Mbps)，能用；</p>
-</li>
-<li><p>未限制 BT 下载；</p>
-</li>
-<li><p>玩守望先锋未发现有丢包现象（移动有时会有，而且比较严重），延迟较低（30ms - 40ms）；</p>
-</li>
-<li><p>能用，但不如移动，不过价格上妥协了；</p>
-</li>
-<li><p>遇到再补，以上。</p>
-</li>
-</ol>
-]]></content>
-      <tags>
-        <tag>日常</tag>
-      </tags>
   </entry>
   <entry>
     <title>使用 Hexo 遇到的一些技术性问题</title>
@@ -103,6 +85,33 @@
 </li>
 </ol>
 <p>  就像所谓的 “微信社交礼仪” 一样，我们以为 “会提问题” 是上网冲浪者拥有的基本的能力 – 如你所见，并不是：并不是所有人都知道这些常识 – 在 IM 应用（包括但不限于微信，Telegram 等）里，要尽可能少地占用他人注意力，比如少发表情包啦，能发文字消息就不发语音啦之类的基本规范。当然，本文意不在此，doesn’t matter. </p>
+]]></content>
+      <tags>
+        <tag>日常</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>联通校园网目前的体验和发现的一些问题</title>
+    <url>/2021/09/21/%E8%81%94%E9%80%9A%E6%A0%A1%E5%9B%AD%E7%BD%91%E7%9B%AE%E5%89%8D%E7%9A%84%E4%BD%93%E9%AA%8C%E5%92%8C%E5%8F%91%E7%8E%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/</url>
+    <content><![CDATA[<p>搬到新校区后用不了移动宽带，只能选择一个月 28 的联不通。</p>
+<span id="more"></span>
+
+<ol>
+<li><p>Win10 环境下无法设置移动热点（此问题无解）；</p>
+</li>
+<li><p>Win10 环境下直接设置代理连接（即 VPN 连接）是无效的。解决办法：将网络连接修改为英文，不用中文。参见<a href="https://zhuanlan.zhihu.com/p/379595280">此文</a>，应该是 Win10 的 bug；</p>
+</li>
+<li><p>跑了一下测速，最大下载速度为 30MB（换成运营商的单位就是 240Mbps，但正常情况下是跑不到这个速度的），平均下载速度 11MB 左右，最大上传速度为 3MB，平均上传速度为 3Mb (30~40Mbps)，能用；</p>
+</li>
+<li><p>未限制 BT 下载；</p>
+</li>
+<li><p>玩守望先锋未发现有丢包现象（移动有时会有，而且比较严重），延迟较低（30ms - 40ms）；</p>
+</li>
+<li><p>能用，但不如移动，不过价格上妥协了；</p>
+</li>
+<li><p>遇到再补，以上。</p>
+</li>
+</ol>
 ]]></content>
       <tags>
         <tag>日常</tag>
