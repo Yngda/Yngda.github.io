@@ -1,33 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>使用 Hexo 遇到的一些技术性问题</title>
-    <url>/2021/08/14/%E4%BD%BF%E7%94%A8-Hexo-%E9%81%87%E5%88%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E6%8A%80%E6%9C%AF%E6%80%A7%E9%97%AE%E9%A2%98/</url>
-    <content><![CDATA[<p>记录一些在使用 Hexo 过程中遇到的问题以及相应的解决方案，会不断更新。</p>
+    <title>History of Latin</title>
+    <url>/2021/11/22/History-of-Latin/</url>
+    <content><![CDATA[<p>尝试翻译了一下“History of Latin”。文章所写均有据可查。另，对本文的应用应遵守<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">署名-相同方式共享 4.0 国际 (CC BY-SA 4.0) 协议</a>，转载应注明本文链接。</p>
 <span id="more"></span>
 
-<ol>
-<li><p>遇到问题多 Google，请教的时候应把配置文件，使用环境，软件版本，浏览器状况等一并告知；</p>
-</li>
-<li><p>Git Bash 所有的操作都应该在 <code>Hexo/blog</code> 文件夹下执行；</p>
-</li>
-<li><p>安装 Next 主题时采取克隆整个仓库的方法，即： </p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ git <span class="built_in">clone</span> https://github.com/next-theme/hexo-theme-next themes/next</span><br></pre></td></tr></table></figure>
-
-<p>npm 安装的方法可能会报错； </p>
-</li>
-<li><p>参见这个 <a href="https://github.com/next-theme/hexo-theme-next/issues/337">issue</a>：修改配置文件时应先备份，再做改动；</p>
-</li>
-<li><p>自定义域名在执行 <code>hexo d</code> 后会失效，解决方法：CNAME 文件不要有任何后缀，设置好后删除后缀即可（注意：写入的域名不包含 <em>http</em>, <em>www</em> 字样），参见<a href="https://lianzhuotao.com/2019/10/27/%E8%A7%A3%E5%86%B3Hexo%E6%AF%8F%E6%AC%A1%E9%83%A8%E7%BD%B2%E5%90%8E%E5%9F%9F%E5%90%8D%E8%A2%AB%E6%9B%BF%E6%8D%A2%EF%BC%88%E5%8D%B3%E4%BD%BF%E6%B7%BB%E5%8A%A0%E4%BA%86CNAME%EF%BC%89%E7%9A%84%E9%97%AE%E9%A2%98/">此文</a>；</p>
-</li>
-<li><p>网站配置文件中 deploy 的设置如下：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  <span class="built_in">type</span>: git</span><br><span class="line">  repo: git@github.com:username/username.github.io.git</span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure></li>
-<li><p>遇到再补，以上。</p>
-</li>
-</ol>
+<p><a href="https://www.ruf.rice.edu/~kemmer/Words04/structure/latin.html">原文链接</a></p>
+<p>An irreverent but true chronology by Timothy J. Pulju.<br>由 Timothy J. Pulju 整理并撰写的拉丁语大事年表，不成敬意，可以保证资料的准确性。</p>
+<p>753 BC — Traditional date of the founding of the city of Rome by Romulus, a fictional character who killed his twin brother Remus, populated his city with escaped convicts, and found wives for his subjects by kidnapping Sabine women who had come for a visit. At this stage, Latin is the language spoken by several thousand people in and near Rome.<br>公元前 753 年 – 这一年通常被认为是罗慕路斯建立罗马的时间。罗慕路斯，即杀掉孪生兄长瑞摩斯的虚构的人物（译者注：此条尚未定论）。此时的罗马居民中逃犯居多，罗穆路斯绑架了前来拜访的萨宾妇女，把她们许配给自己的子民做妻子。在这个时期，有数千罗马人及其罗马周边居民说拉丁语。</p>
+<p>6th century BC — Earliest known Latin inscription, on a pin, which says “Manios me fhefhaked Numasioi”, meaning “Manius made me for Numerius”. Only a few other inscriptions predate the 3rd century BC.<br>公元前 6 世纪 – 已知最早的拉丁语铭文，刻写在一根别针上：Manios me fhefhaked Numasioi（维基上为“Manios med fhefhaked Numasioi ”）, 意思是“此饰针乃马尼乌斯为努梅利乌斯所制”。自公元前三世纪早期仅有为数不多的铭文留存。</p>
+<p>250-100 BC — Early Latin. The first Latin literature, usually loose translations of Greek works or imitations of Greek genres, stems from this period. Meanwhile, the Romans are conquering the Mediterranean world and bringing their language with them.<br>公元前 250 - 100 年 – 早期拉丁语（维基上称此为古体拉丁语）。第一批拉丁语文学作品就来自这个时期，它们通常是对希腊文学作品的粗略翻译或者对其文学体裁的模仿。同时，罗马人也征服了地中海地区，并把自己的语言带给了他们。</p>
+<p>100 BC-150 AD — Classical Latin. Guys like Cicero, Caesar, Vergil, and Tacitus write masterpieces of Latin literature. Also, Ovid writes a book on how to pick up women at the gladiator shows. The literary language becomes fixed and gradually loses touch with the ever- changing popular language known today as Vulgar Latin.<br>公元前 100 年 - 公元 150 年 – 古典拉丁语。像西塞罗、凯撒、维吉尔和塔西佗这些人已经写下了拉丁语传世经典。当然，也有像奥维德，写了一本如何在角斗士表演中吸引女性的书。文学语言逐渐固化，慢慢与我们今天所熟知的，多变的“通俗拉丁语（<a href="https://zh.wikipedia.org/wiki/%E9%80%9A%E4%BF%97%E6%8B%89%E4%B8%81%E8%AF%AD">维基词条</a>）”脱离关系。</p>
+<p>200-550 — Late Latin. Some varieties of literature adhere closely to the classical standard, others are less polished or deliberately closer to the popular speech (e.g., St. Jerome’s translation of the Bible into Latin—the Vulgate). The western half of the empire is falling to pieces, but the Greek-speaking east, which is still in good shape, keeps using Latin in official contexts until the end of this period.<br>200 - 550 年 – 晚期拉丁语。部分文学作品严格坚守着古典拉丁语的文法，而其他文学作品则润色较少，或者说（其文法）特意靠向通俗拉丁语（例如哲罗姆的通俗拉丁文圣经译本）。（罗马）帝国的西半部分分崩离析，而以希腊语为主的东半部分则始终保持着完好，一直到此时期的末期（译者注：在620年，希拉克略皇帝首次让希腊语取代拉丁语，成为帝国的官方语言），拉丁语一直是东罗马帝国的官方语言。</p>
+<p>600-750 — Latin has become a dead language. Few people in the west outside of monasteries can read. The spoken languages of Italy, France and Spain change rapidly. Monks, particularly in Ireland, read and write classical Latin and preserve ancient texts as well as church documents. The Roman Catholic church continues to use Late Latin in the liturgy, though they eventually decide to deliver homilies in the local popular language. The Byzantines still call themselves Romans but have given up on the Latin language.<br>600 - 750 年，拉丁语已经变成了“死”语言。在西罗马帝国，除修道院外只有少数人能读拉丁语。意大利，法国，西班牙的口语变化很快。尤其是爱尔兰的僧侣，他们可以阅读，书写古典拉丁语，同时也保护古代的文献以及教堂的档案。尽管罗马天主教会最终决定使用当地流行的语言来布道，但他们始终用拉丁语做礼拜。还有放弃了拉丁语的拜占庭帝国（即东罗马帝国），一直坚持着自己“罗马人”的称呼。</p>
+<p>800-900 — The Carolingian Renaissance. Charlemagne decides that education is a good thing and promotes it in his kingdoms. After his death scholarship goes downhill a while, but never as far as it had before his reign.<br>800 -900 年 – 卡洛林文艺复兴。查理大帝在自己的王国大力推广教育，他认定教育是件好事。在他死后的一段时间里学术研究在走下坡路，远不及他在位时那般兴盛。</p>
+<p>1100-1300 — Contact with the educated Arabs who have conquered North Africa and Spain leads to a revival of learning, especially the study of Aristotle and other Greeks. Leading smart guys include St. Thomas “The Dumb Ox” Aquinas and John “Dunce” Scotus, as well as Petrus Hispanus, a pope who was killed when a ceiling collapsed on him. All learned writing is done in Latin, a practice which persisted until the 20th century at some fairly silly universities.<br>1100 -1300 年 – 与征服北非和西班牙的受过教育的阿拉伯人的接触，引发了学习的热潮，尤其是对亚里士多德和其他希腊哲学家的研究。这些有着远见卓识的领导者有：“笨牛”圣托马斯阿奎那，邓斯·司各脱（<a href="https://zh.wikipedia.org/wiki/%E9%82%93%E6%96%AF%C2%B7%E5%8F%B8%E5%90%84%E8%84%B1">维基词条</a>），以及死于天花板塌陷的教皇约翰二十一世（<a href="https://en.wikipedia.org/wiki/Pope_John_XXI">维基词条</a>）。所有教授写作所使用的语言均为拉丁语，直到 20 世纪，这一习惯依旧被部分不明智的大学延续着。</p>
+<p>Mid 14th century — The Black Death kills a lot of people, including students, professors and other people who live in crowded, unsanitary cities. This is bad for the educational system. Meanwhile, an Italian poet named Petrarch decides that plague-infested professors and anyone else who doesn’t write the classical Latin used by Cicero is a moron. In fact, everyone between Cicero and Petrarch was a moron in the latter’s opinion, so it was high time to have a Renaissance and make fun of everything medieval.<br>14 世纪中期 – 黑死病杀死了居住在拥挤，脏乱城市里，包括学生，教授在内的许多人。这对教育体系无疑是一件坏事。在这个时期，意大利诗人弗朗切斯科·彼特拉克（<a href="https://zh.wikipedia.org/wiki/%E5%BC%97%E6%9C%97%E5%88%87%E6%96%AF%E7%A7%91%C2%B7%E5%BD%BC%E7%89%B9%E6%8B%89%E5%85%8B">维基词条</a>）认为，那些不愿意使用由西塞罗（<a href="https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%A1%9E%E7%BD%97">维基词条</a>）改进的古典拉丁语的感染疫病的教授以及其他人，都是蠢货。事实上，西塞罗和彼特拉克之间的每一个人在后者看来都是白痴，因此在文艺复兴的高潮时期，彼特拉克也在不遗余力地嘲讽着中世纪的一切。</p>
+<p>1400-1650 — During the Renaissance, which spread from Italy to France and finally to England, people started reading Latin classical authors and bringing Latin words into their languages. In England, this is called “aureate diction” and is considered evidence of great learnedness. Furthermore, as science develops, Europeans find it useful to have a universal Latinate terminology to facilitate international research.<br>1400 - 1650 年 – 文艺复兴由意大利逐渐发展到法国，最终发展到英格兰，人们开始了解古典拉丁语的作家，并将拉丁语词汇融入到自己的语言中。在英格兰，这被称为“aureate diction（<a href="https://en.wikipedia.org/wiki/Aureation">维基词条</a>）（<a href="https://www.oxfordreference.com/view/10.1093/oi/authority.20110803095434515">牛津释义</a>）”，并被看作是学识渊博的象征。除此之外，随着科学技术的发展，欧洲人发现，拉丁语作为通用的（科学）术语，对国际研究也有促进作用。</p>
+<p>up till 1900 — Almost everyone who goes to college has to learn Latin, and most humanities majors have to study Greek as well. Many of the Latin roots borrowed during the aureate diction period have come to seem native and can be used in forming new words.<br>直到 1900 年 – 几乎每一名大学生都得学拉丁语，绝大多数人文科学专业的学生也必须学习。许多起源于“aureate diction”时期的拉丁语词根逐渐本土化，已经能够用于构造新词。</p>
+<p>mid 1960s — The Catholic Church decides that Latin is no longer the obligatory language of Catholic liturgies. Meanwhile, with free love and everything, most young people of the 60s figure they have better things to do than learn Latin.<br>20 世纪 60 年代中期 – 天主教派意识到不能再强制性地将拉丁语作为天主教礼拜仪式的使用语言。同时，随着爱情与其他所有事情的解放，许多 60 年代的年轻人认为比起学习拉丁语，还有其他更有意义的事情做。</p>
+<p>Today — Nobody speaks Latin well, and few people can write it, but lots can read it. Many of them are tenured professors, so they’d be hard to get rid of even if we wanted to.<br>当今 – 没有人能够说好拉丁语，只有少数人可以写拉丁文，不过能够理解拉丁文的人倒是不少。这些人中有一些是终身教授，因此我们很难摆脱他们 : )。</p>
 ]]></content>
       <tags>
-        <tag>Hexo</tag>
+        <tag>Latin</tag>
       </tags>
   </entry>
   <entry>
@@ -76,7 +72,7 @@
 <p>第一首：</p>
 <blockquote>
 <p><strong>云鬓花颜金步摇</strong> <strong>（张达聪）</strong></p>
-<p>她莲步轻盈，袅娜多姿，<br>天生丽质，浓淡两相宜，<br>仿佛大地无云静夜，又似天庭繁星熠熠；<br>晶莹双眸，雪肤花貌，集于一身，<br>在柔和的光线下，格外丰润甜美，<br>苍天白昼黯然失色，怎若她那般明媚。<br>她那乌云似的鬈发，<br>她那娇嫩洁白的脸庞，<br>闪耀著难以言喩的优雅匀称，<br>色调多一分，少一分，都会使丰采减半；<br>宁静的思想，馥郁亲切表露出来，<br>它们生在多么纯洁可爱的地方。<br>在她的芳颊上，在她的蛾眉上，<br>带有如此温柔、文静、脉脉含情的微笑，<br>令人著迷，还有那灿烂的红润？<br>只道出安度往日的豆蔻年华，<br>一个和天下万物和平相处的灵魂，<br>一颗仁爱的芳心，淸白而又天真！</p>
+<p>她莲步轻盈，袅娜多姿，<br>天生丽质，浓淡两相宜，<br>仿佛大地无云静夜，又似天庭繁星熠熠；<br>晶莹双眸，雪肤花貌，集于一身，<br>在柔和的光线下，格外丰润甜美，<br>苍天白昼黯然失色，怎若她那般明媚。<br>她那乌云似的鬈发，<br>她那娇嫩洁白的脸庞，<br>闪耀著难以言喩的优雅匀称，<br>色调多一分，少一分，都会使丰采减半；<br>宁静的思想，馥郁亲切表露出来，<br>它们生在多么纯洁可爱的地方。<br>在她的芳颊上，在她的蛾眉上，<br>带有如此温柔、文静、脉脉含情的微笑，<br>令人著迷，还有那灿烂的红润，<br>只道出安度往日的豆蔻年华，<br>一个和天下万物和平相处的灵魂，<br>一颗仁爱的芳心，淸白而又天真！</p>
 </blockquote>
 <p>第二首：</p>
 <blockquote>
@@ -86,6 +82,46 @@
 ]]></content>
       <tags>
         <tag>日常</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>日常</title>
+    <url>/2021/11/10/%E6%97%A5%E5%B8%B8/</url>
+    <content><![CDATA[<p>昨天晚上吃完饭遇见一个漂亮的大姐姐，</p>
+<p>眼睛好大好亮。</p>
+]]></content>
+      <tags>
+        <tag>日常</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>使用 Hexo 遇到的一些技术性问题</title>
+    <url>/2021/08/14/%E4%BD%BF%E7%94%A8-Hexo-%E9%81%87%E5%88%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E6%8A%80%E6%9C%AF%E6%80%A7%E9%97%AE%E9%A2%98/</url>
+    <content><![CDATA[<p>记录一些在使用 Hexo 过程中遇到的问题以及相应的解决方案，会不断更新。</p>
+<span id="more"></span>
+
+<ol>
+<li><p>遇到问题多 Google，请教的时候应把配置文件，使用环境，软件版本，浏览器状况等一并告知；</p>
+</li>
+<li><p>Git Bash 所有的操作都应该在 <code>Hexo/blog</code> 文件夹下执行；</p>
+</li>
+<li><p>安装 Next 主题时采取克隆整个仓库的方法，即： </p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ git <span class="built_in">clone</span> https://github.com/next-theme/hexo-theme-next themes/next</span><br></pre></td></tr></table></figure>
+
+<p>npm 安装的方法可能会报错； </p>
+</li>
+<li><p>参见这个 <a href="https://github.com/next-theme/hexo-theme-next/issues/337">issue</a>：修改配置文件时应先备份，再做改动；</p>
+</li>
+<li><p>自定义域名在执行 <code>hexo d</code> 后会失效，解决方法：CNAME 文件不要有任何后缀，设置好后删除后缀即可（注意：写入的域名不包含 <em>http</em>, <em>www</em> 字样），参见<a href="https://lianzhuotao.com/2019/10/27/%E8%A7%A3%E5%86%B3Hexo%E6%AF%8F%E6%AC%A1%E9%83%A8%E7%BD%B2%E5%90%8E%E5%9F%9F%E5%90%8D%E8%A2%AB%E6%9B%BF%E6%8D%A2%EF%BC%88%E5%8D%B3%E4%BD%BF%E6%B7%BB%E5%8A%A0%E4%BA%86CNAME%EF%BC%89%E7%9A%84%E9%97%AE%E9%A2%98/">此文</a>；</p>
+</li>
+<li><p>网站配置文件中 deploy 的设置如下：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  <span class="built_in">type</span>: git</span><br><span class="line">  repo: git@github.com:username/username.github.io.git</span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure></li>
+<li><p>遇到再补，以上。</p>
+</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>Hexo</tag>
       </tags>
   </entry>
   <entry>
@@ -114,16 +150,6 @@
 </li>
 </ol>
 <p>  就像所谓的 “微信社交礼仪” 一样，我们以为 “会提问题” 是上网冲浪者拥有的基本的能力 – 如你所见，并不是：并不是所有人都知道这些常识 – 在 IM 应用（包括但不限于微信，Telegram 等）里，要尽可能少地占用他人注意力，比如少发表情包啦，能发文字消息就不发语音啦之类的基本规范。当然，本文意不在此，doesn’t matter. </p>
-]]></content>
-      <tags>
-        <tag>日常</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>日常</title>
-    <url>/2021/11/10/%E6%97%A5%E5%B8%B8/</url>
-    <content><![CDATA[<p>昨天晚上吃完饭遇见一个漂亮的大姐姐，</p>
-<p>眼睛好大好亮。</p>
 ]]></content>
       <tags>
         <tag>日常</tag>
