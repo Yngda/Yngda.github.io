@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>That&#39;s so pity.</title>
+    <url>/2021/10/18/That-s-so-pity/</url>
+    <content><![CDATA[<p>  That’s so pity. 真的是意难平。我不得不放弃 - 她把我所有的联系方式都拉黑了，哦微博私信还没关，但也始终没有任何回复。虽然不断告诉自己：忘了吧忘了吧忘了吧忘了吧，没什么的，无所谓的。但怎么能真正放下呢？</p>
+]]></content>
+      <tags>
+        <tag>日常</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>History of Latin</title>
     <url>/2021/11/22/History-of-Latin/</url>
     <content><![CDATA[<p>尝试翻译了一下“History of Latin”。文章所写均有据可查。另，对本文的应用应遵守<a href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">署名-相同方式共享 4.0 国际 (CC BY-SA 4.0) 协议</a>，转载应注明本文链接。</p>
@@ -27,6 +36,26 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/2021/07/31/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>云鬓花颜金步摇</title>
     <url>/2021/11/11/%E4%BA%91%E9%AC%93%E8%8A%B1%E9%A2%9C%E9%87%91%E6%AD%A5%E6%91%87/</url>
     <content><![CDATA[<p>今天英国文学史课讲到拜伦，讲到他的一首诗 “She Walks in Beauty”，个人觉得还不错，抄一下。</p>
@@ -50,15 +79,6 @@
 <p><strong>她走在美的光影里</strong> <strong>（杨德豫）</strong></p>
 <p>她走在美的光影里，好像<br>无云的夜空，繁星闪烁；<br>明与暗的最美的形相<br>凝聚于她的容颜和眼波，<br>融成一片淡雅的淸光——<br>浓艳白天得不到的恩泽。<br>多一道阴影，少一缕光芒，<br>都会有损于这无名之美：<br>美在她绺绺黑发间飘荡，<br>也在她颜面上洒布柔辉；<br>愉悦的思想在那儿颂扬<br>这神圣寓所的纯洁高贵。<br>安详，和婉，富于情态——<br>在那脸颊上，在那眉宇间，<br>迷人的笑容，照人的光彩，<br>显示温情伴送著芳年；<br>恬静的、涵容一切的胸怀，<br>蕴蓄著真纯爱情的心田！</p>
 </blockquote>
-]]></content>
-      <tags>
-        <tag>日常</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>That&#39;s so pity.</title>
-    <url>/2021/10/18/That-s-so-pity/</url>
-    <content><![CDATA[<p>  That’s so pity. 真的是意难平。我不得不放弃 - 她把我所有的联系方式都拉黑了，哦微博私信还没关，但也始终没有任何回复。虽然不断告诉自己：忘了吧忘了吧忘了吧忘了吧，没什么的，无所谓的。但怎么能真正放下呢？</p>
 ]]></content>
       <tags>
         <tag>日常</tag>
@@ -95,48 +115,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2021/07/31/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<span id="more"></span>
-
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>日常</title>
-    <url>/2021/11/26/%E6%97%A5%E5%B8%B8-1/</url>
-    <content><![CDATA[<p>做梦。又梦到你了。</p>
-<p>几乎可以感受到你衣服的触感，可以看到你被风撩起的发梢，可以看到你狡黠的笑。我们几乎要相拥。</p>
-<p>闹钟响起，梦醒。</p>
-<p>我差不多是疯了。</p>
-]]></content>
-      <tags>
-        <tag>日常</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>日常</title>
-    <url>/2021/11/10/%E6%97%A5%E5%B8%B8/</url>
-    <content><![CDATA[<p>昨天晚上吃完饭遇见一个漂亮的大姐姐，</p>
-<p>眼睛好大好亮。</p>
-]]></content>
-      <tags>
-        <tag>日常</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>联通校园网目前的体验和发现的一些问题</title>
     <url>/2021/09/21/%E8%81%94%E9%80%9A%E6%A0%A1%E5%9B%AD%E7%BD%91%E7%9B%AE%E5%89%8D%E7%9A%84%E4%BD%93%E9%AA%8C%E5%92%8C%E5%8F%91%E7%8E%B0%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98/</url>
     <content><![CDATA[<p>搬到新校区后用不了移动宽带，只能选择一个月 28 的联不通。</p>
@@ -158,6 +136,31 @@
 <li><p>遇到再补，以上。</p>
 </li>
 </ol>
+]]></content>
+      <tags>
+        <tag>日常</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>日常</title>
+    <url>/2021/11/29/%E6%97%A5%E5%B8%B8-2/</url>
+    <content><![CDATA[<ul>
+<li>上次翻译的视频，<a href="https://youtu.be/Xm5BJZc8GI8?list=PLjfJOWZ5PUjt1_vHKdClVPvtfQPGD7UK6">原链接</a>，<a href="https://www.bilibili.com/video/BV1mb4y1q7Sc?t=0.5">B 站链接</a>，只能说…还凑合吧。字幕及翻译稿在此（<a href="https://docs.google.com/document/d/1_P0sHE-N-g3O1ONp2gA5sPwomEhuZiDyfuoafSqTW80/edit?usp=sharing">Google docs 链接</a>）；</li>
+<li>今天给外国友人写邮件递交翻译申请，邮件发出去了才反应过来：卧槽写得都是些什么玩意 - 基本的问候语没写，单词拼写有错误，结语也忘了 ಠ_ಠ；</li>
+<li>来自 <a href="https://twitter.com/sennapetsu/status/1465242195569508354">YeyeBBC</a> 的毛茸茸的史迪奇！已经换上了！</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>日常</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>日常</title>
+    <url>/2021/11/26/%E6%97%A5%E5%B8%B8-1/</url>
+    <content><![CDATA[<p>做梦。又梦到你了。</p>
+<p>几乎可以感受到你衣服的触感，可以看到你被风撩起的发梢，可以看到你狡黠的笑。我们几乎要相拥。</p>
+<p>闹钟响起，梦醒。</p>
+<p>我差不多是疯了。</p>
 ]]></content>
       <tags>
         <tag>日常</tag>
@@ -189,6 +192,16 @@
 </li>
 </ol>
 <p>  就像所谓的 “微信社交礼仪” 一样，我们以为 “会提问题” 是上网冲浪者拥有的基本的能力 – 如你所见，并不是：并不是所有人都知道这些常识 – 在 IM 应用（包括但不限于微信，Telegram 等）里，要尽可能少地占用他人注意力，比如少发表情包啦，能发文字消息就不发语音啦之类的基本规范。当然，本文意不在此，doesn’t matter. </p>
+]]></content>
+      <tags>
+        <tag>日常</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>日常</title>
+    <url>/2021/11/10/%E6%97%A5%E5%B8%B8/</url>
+    <content><![CDATA[<p>昨天晚上吃完饭遇见一个漂亮的大姐姐，</p>
+<p>眼睛好大好亮。</p>
 ]]></content>
       <tags>
         <tag>日常</tag>
