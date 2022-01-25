@@ -889,7 +889,7 @@
   <entry>
     <title>一个想法</title>
     <url>/2022/01/25/%E4%B8%80%E4%B8%AA%E6%83%B3%E6%B3%95/</url>
-    <content><![CDATA[<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">| 需求 | 实现 | 后期增加 |</span><br><span class="line">| :----:| :----: | :----: |</span><br><span class="line">| 黑白背景 | h5 | 暂无 |</span><br><span class="line">| 打字机动效 | css+h5 | 后期可编辑 |</span><br><span class="line">| 单页长篇 | css+h5 | 增加多页 |</span><br><span class="line">| 图片 | css+h5 | 多张插入 |</span><br></pre></td></tr></table></figure>
+    <content><![CDATA[<figure class="highlight html"><table><tr><td class="code"><pre><span class="line">| 需求 | 实现 | 后期增加 |</span><br><span class="line">| :----:| :----: | :----: |</span><br><span class="line">| 黑白背景 | h5 | 暂无 |</span><br><span class="line">| 打字机动效 | css+h5 | 后期可编辑 |</span><br><span class="line">| 单页长篇 | css+h5 | 增加多页 |</span><br><span class="line">| 图片 | css+h5 | 多张插入 |</span><br></pre></td></tr></table></figure>
 
 <p>当前主要目的是服务器只放文字，要打字机动效。先实现第一列吧，没学过 css，难。</p>
 ]]></content>
