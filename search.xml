@@ -1582,4 +1582,22 @@
         <tag>Latin</tag>
       </tags>
   </entry>
+  <entry>
+    <title>奇技淫巧</title>
+    <url>/2022/03/20/%E5%A5%87%E6%8A%80%E6%B7%AB%E5%B7%A7/</url>
+    <content><![CDATA[<p>记录一下不常用到，但用起来比较顺手的“奇技淫巧”，以作备忘。</p>
+<h1 id="微博视频下载"><a href="#微博视频下载" class="headerlink" title="微博视频下载"></a>微博视频下载</h1><p>Win 10, Chrome 99.0.4844.74（正式版本） （64 位）</p>
+<ol>
+<li><p>找到视频地址，即“微博视频”网页；</p>
+</li>
+<li><p>F12 审查网页元素，选择“Network”，刷新网页，找到“Media”一项；</p>
+</li>
+<li><p>选择文件，右键“Open in new tab”，下载。</p>
+</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>日常</tag>
+      </tags>
+  </entry>
 </search>
